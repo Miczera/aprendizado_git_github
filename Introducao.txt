@@ -1,0 +1,1 @@
+Aprendi sobre o que é git, github e como funciona o fluxo de commits.
