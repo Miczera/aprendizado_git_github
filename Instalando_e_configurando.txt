@@ -1,0 +1,1 @@
+Nessa parte do curso, aprendemos a instalar e a configurar o git.
